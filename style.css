@@ -27,9 +27,9 @@ body{
 }
 .parent
 {    
-   border: 2px solid rgba(210, 105, 30, 0.338);
+   border: 2px solid rgba(50, 49, 49, 0.338);
    border-radius: 10px;
-   box-shadow: 0px 0px 200px rgb(145, 142, 142);
+   box-shadow: 0px 0px 50px rgb(145, 142, 142);
    height: 700px;
    width:500px ;
    display: grid;
@@ -100,8 +100,8 @@ button:focus
 
 button
 {
-    background-color:rgb(181, 237, 15);
-    color: black;
+    background-color:rgb(14, 14, 14);
+    color: rgb(245, 243, 243);
     transation: " all 5s linear"
     
 }
